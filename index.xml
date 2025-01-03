@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emmanuel&#39;s Pictures</title>
+    <link>https://emmanuelAM01.github.io/</link>
+    <description>Recent content on Emmanuel&#39;s Pictures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jan 2025 13:21:56 -0500</lastBuildDate><atom:link href="https://emmanuelAM01.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photo1</title>
+      <link>https://emmanuelAM01.github.io/photos/photo1/</link>
+      <pubDate>Fri, 03 Jan 2025 13:21:56 -0500</pubDate>
+      <guid>https://emmanuelAM01.github.io/photos/photo1/</guid><description>&lt;no value&gt;</description></item>
+  </channel>
+</rss>
